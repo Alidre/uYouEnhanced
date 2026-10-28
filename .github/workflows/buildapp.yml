@@ -22,7 +22,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://github.com/SavageFRVR/YTLite/releases/download/v21.25.5-v5.2b4/v21.25.5-YouTubePlus_5.2b4.ipa"
         default: ""
         required: true
         type: string
