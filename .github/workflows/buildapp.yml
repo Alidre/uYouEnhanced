@@ -22,7 +22,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://archive.org/download/com.google.ios.youtube_v21.43.5_und3fined_202610/com.google.ios.youtube_v21.43.5_und3fined.ipa"
+        description: ""
         default: ""
         required: true
         type: string
